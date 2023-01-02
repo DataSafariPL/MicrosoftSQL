@@ -1,4 +1,4 @@
-In this project, **my goal is to clean and organize data stored in a SQL database**. This involves using SQL queries to perform a variety of tasks, including standardizing the date format, populating missing property address data,, removing any duplicate entries, and deleting any unused columns.
+In this project, **my goal is to clean and organize data stored in a SQL database**. This involves using SQL queries to perform a variety of tasks, including standardizing the date format, populating missing property address data, removing any duplicate entries, and deleting any unused columns.
 
 Overall, the goal of this project is to ensure that the data in the SQL database is accurate, consistent, and organized in a way that makes it easy to use and analyze.
 
